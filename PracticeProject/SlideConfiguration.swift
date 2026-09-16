@@ -18,5 +18,6 @@ struct SlideConfiguration {
         TitleSlide()
         SampleSlide()
         CodeSlide()
+        CustomizedSlide()
     }
 }
